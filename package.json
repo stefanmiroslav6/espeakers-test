@@ -1,7 +1,7 @@
 {
-  "name": "mycentify",
+  "name": "espeakers-test",
   "version": "1.5.2",
-  "description": "MyCentify",
+  "description": "React/Redux test project for espeakers",
   "license": "MIT",
   "scripts": {
     "start": "cross-env NODE_ENV=development hjs-dev-server",
