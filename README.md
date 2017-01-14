@@ -8,7 +8,7 @@ ES6 syntax is used for writing JavaScript.
 
 To run this app, run the following commands:
 
-- npm install -g webpack
+- npm install -g webpack (sudo may be required)
 - npm install
 - npm start
 
