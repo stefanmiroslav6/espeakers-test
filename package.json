@@ -3,6 +3,7 @@
   "version": "1.5.2",
   "description": "React/Redux test project for espeakers",
   "license": "MIT",
+  "author": "Stefan M.",
   "scripts": {
     "start": "cross-env NODE_ENV=development hjs-dev-server",
     "build": "npm run clean && cross-env NODE_ENV=production webpack",
